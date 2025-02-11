@@ -1,0 +1,30 @@
+{
+  "name": "bangladeshi-geo-data",
+  "version": "1.0.0",
+  "description": "A package providing Bangladesh's geo data (Divisions, Districts, Upazilas)",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist",
+    "src/data"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "prepublishOnly": "npm run build",
+    "test": "jest"
+  },
+  "keywords": [
+    "Bangladesh",
+    "geo-data",
+    "divisions",
+    "districts",
+    "upazilas"
+  ],
+  "author": "Mehedi Hasan Khairul",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/jest": "^29.5.14",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.2.5"
+  }
+}
