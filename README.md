@@ -159,7 +159,7 @@ You are free to **use, modify, and distribute** this package.
 ## 📢 Contact & Support
 
 🔗 **GitHub:** [GitHub Repo](https://github.com/mehedihasankhairul/bangladeshi-geo-data)\
-🔗 **NPM:** [NPM Package](https://www.npmjs.com/package/bangladeshi-geo-data)
+🔗 **NPM:** [NPM Package](https://www.npmjs.com/package/bangladeshi-geo-data)\
 🔗 **Facebook:** [Facebook Profile](https://facebook.com/mahedihasan.khairul)
 
 
