@@ -151,15 +151,17 @@ To contribute:
 Licensed under the **MIT License**.\
 You are free to **use, modify, and distribute** this package.
 
-📌 **Maintainer**: [Mehedi Hasan Khairul](https://github.com/mhkhairul)\
+📌 **Maintainer**: [Mehedi Hasan Khairul](https://github.com/mehedihasankhairul)\
 📌 **NPM Package**: [bangladeshi-geo-data](https://www.npmjs.com/package/bangladeshi-geo-data)
 
 ---
 
 ## 📢 Contact & Support
 
-🔗 **GitHub:** [GitHub Repo](https://github.com/mhkhairul/bangladeshi-geo-data)\
+🔗 **GitHub:** [GitHub Repo](https://github.com/mehedihasankhairul/bangladeshi-geo-data)\
 🔗 **NPM:** [NPM Package](https://www.npmjs.com/package/bangladeshi-geo-data)
+🔗 **Facebook:** [Facebook Profile](https://facebook.com/mahedihasan.khairul)
+
 
 🚀 **Enjoy using `bangladeshi-geo-data`!** Let us know if you have any suggestions or feedback! 🚀
 
