@@ -1,7 +1,7 @@
 {
   "name": "bangladeshi-geo-data",
   "version": "1.0.0",
-  "description": "A package providing Bangladesh's geo data (Divisions, Districts, Upazilas)",
+  "description": "A Lightweight & easy to use package providing Bangladesh's geo data (Divisions, Districts, Upazilas)",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "files": [
